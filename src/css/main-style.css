@@ -1,0 +1,210 @@
+ #toolbar-image {
+    background: url('/public/assets/main-bg.png');
+    height: 355px;
+  }
+
+  .artefact {
+	width: 514.7px;
+	height: 62.1px;
+	object-fit: contain;
+	background-color: #fff;
+}
+
+
+.searchText{
+  width: 30%;
+	height: 100%;
+	font-family: OpenSans;
+	font-size: 22.5px;
+	letter-spacing: 0.6px;
+	color: rgba(220, 220, 200, 0.65);
+  border-radius: 90px;
+	background-color: rgba(219, 219, 219, 0.05);
+	border: solid 0.9px #c6c7b0;
+}
+
+.inputFormSearch:focus{
+  outline-width: 0;
+}
+
+.inputFormSearch{
+  height: 100%;
+  padding-bottom: 5px;
+  width: 80%;
+  margin:5px;
+}
+
+.tittle{
+  width: 333px;
+	height: 56px;
+	font-family: OpenSans;
+	font-size: 21px;
+	letter-spacing: 0.9px;
+	text-align: center;
+	color: rgba(155, 133, 97, 0.65);
+}
+
+.search-shape {
+  padding-top: 10px;
+	width: 30px;
+	height: 100%;
+	opacity: 0.65;
+  object-fit: contain;
+}
+
+.fefu-logo {
+	width: 70px;
+	height: 43px;
+	object-fit: contain;
+	opacity: 0.71;
+  display: block;
+  margin: auto;
+}
+
+.list__tile__title{
+  font-family: OpenSans;
+  font-size: 20px;
+	font-weight: 300;
+	letter-spacing: -0.8px;
+	color: #383838;
+}
+
+.list--dense .list__tile__title {
+  font-size: 20px;
+}
+
+.input-group__selections{
+  font-family: OpenSans;
+}
+
+.input-group__input{
+  font-family: OpenSans;
+}
+
+
+.pickersWrapper{
+  padding-top: 30px;
+  width: 60%;
+}
+
+
+.footer{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 80px;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.artefact-copy {
+  padding-left: 0px;
+	width: 148.7px;
+	height: 17.9px;
+	object-fit: contain;
+}
+
+.btn{
+  font-family: OpenSans;
+  font-size: 18px;
+	font-weight: 300;
+	letter-spacing: -0.8px;
+	color: #8F8F8F;
+}
+
+.input-group__input{
+  padding-left: 10px;
+  font-family: OpenSans;
+  font-size: 20px;
+	font-weight: 300;
+	letter-spacing: -0.8px;
+	color: #383838;
+}
+
+
+
+.label{
+  padding-left: 10px;
+  font-family: OpenSans;
+  font-size: 20px;
+	font-weight: 300;
+	letter-spacing: -0.8px;
+	color: #383838;
+}
+
+
+.adminLinkText{
+  padding-left: 10px;
+  font-family: OpenSans-Light;
+	font-size: 16px;
+	font-weight: 100;
+	letter-spacing: -0.6px;
+	color: #555555;
+}
+
+
+.adminLink{
+  margin-top: 30px;
+  padding-left: 10px;
+  font-family: OpenSans;
+	font-size: 16px;
+	letter-spacing: -0.6px;
+	color: #555555;
+  text-decoration: none;
+}
+
+.menuFooter{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 80px;
+  display: block;
+  margin: auto;
+  padding-left: 16px;
+}
+
+.catalogueList{
+  font-family: OpenSans-Light;
+	font-size: 16px;
+	font-weight: 300;
+	letter-spacing: -0.6px;
+	color: #383838;
+  height: 18px;
+  padding-left: 22px;
+}
+
+
+.subCatalogueList{
+  font-family: OpenSans-Light;
+	font-size: 14px;
+	font-weight: 300;
+	letter-spacing: -0.5px;
+	color: #383838;
+  padding-left: 30px;
+}
+
+.catalogueTittle{
+  padding-top: 30px;
+  font-family: OpenSans;
+	font-size: 25px;
+	font-weight: 600;
+	letter-spacing: -1px;
+	color: #383838;
+  padding-left: 16px;
+}
+
+.list--group .list__tile {
+  padding-left: 20px;
+}
+
+.navMenuList{
+    font-family: OpenSans;
+	font-size: 20px;
+	font-weight: 300;
+	letter-spacing: -0.8px;
+	color: #383838;
+}
+
